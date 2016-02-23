@@ -1,2 +1,2 @@
 # test
-This is a file just for testing.
+This is a project just for testing.
